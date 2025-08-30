@@ -25,7 +25,7 @@ Upload a PDF, it is chunked, embedded, and you can ask questions with contextual
 ## Conda Setup
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Seif-aber/pdf_chat_assistant
 cd pdf-chat-assistant
 
 # Create environment
