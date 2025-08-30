@@ -1,17 +1,12 @@
----
-title: PDF Chat Assistant
-emoji: 📄
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-app_file: src/app.py
-pinned: false
----
-
 # PDF Chat Assistant
 
 Interact with your PDF using Retrieval-Augmented Generation (RAG) + Gemini.  
 Upload a PDF, it is chunked, embedded, and you can ask questions with contextual, streamed answers.
+
+## Live Demos
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdfchatassistant-seif-aber.streamlit.app/)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Seyfelislem/pdf_chat_assistant)
 
 ## Features
 - PDF upload & inline preview
